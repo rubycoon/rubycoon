@@ -3,6 +3,6 @@
                                                      call me ruby
                              my sytle : Desaturated, Low/high saturation, Muted color palette
                                                         dnc pls
-                   sx468w5
-                   infp-T 
+                 (  sx4w5-sx6w5-sx8w9 )
+                        infp-T 
               
