@@ -15,4 +15,4 @@
 
 ![image_alt](https://github.com/rubycoon/rubycoon/blob/06ef501f0152d8bfcc6e11dd236878b64b3f4d86/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8113_20260813214258.png)
 
-![video_alt](https://github.com/rubycoon/rubycoon/blob/25892122391b5a204dac5d128a8f117114a423b5/tiktok_nwm_7673409787496795399.mp4)
+<video controls src="https://github.com/rubycoon/rubycoon/blob/25892122391b5a204dac5d128a8f117114a423b5/tiktok_nwm_7673409787496795399.mp4"></video>
