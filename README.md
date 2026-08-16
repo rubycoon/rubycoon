@@ -13,3 +13,16 @@
 
 ![image_alt](https://github.com/rubycoon/rubycoon/blob/380a1ecfcb3fd3f074540c11fa643189428df561/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%817_20260812112222.png)
 
+<details>
+  <summary>hater</summary>
+
+  <p>
+   @BunLynaLoL <br>
+  When I first got to know her, I thought it was a beautiful friendship.<br><br>
+    On the surface, she appears cheerful and kind, but she has a dark side that took me by surprise.<br><br>
+    She deceived me repeatedly over a long period. Looking back, I was no better than a cow being led around by the nose.<br><br>
+    She said she was a girl living with her stepmother, and that she was bullied and nearly raped by her stepmother's son.<br><br>
+    I was shocked.<br><br>
+    I’m only sharing that one small bit because her offenses are piled as high as a mountain—I just can't be bothered to tell the rest.
+  </p>
+</details>
