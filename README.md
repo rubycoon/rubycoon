@@ -1,11 +1,34 @@
 <div style="text-align: center; color: black;">(0 . 0)</div>
+
+<br>
+
 <div style="text-align: center; color: black;">i love music</div>
+
+<br>
+
 <div style="text-align: center; color: black;">call me </div>
+
+<br>
+
 <div style="text-align: center; color: black;">my sytle : Desaturated, Low/high saturation, Muted color palette</div>
+
+<br>
+
 <div style="text-align: center; color: black;">dnc pls</div>
+
+<br>
+
 <div style="text-align: center; color: black;">(  sx4w5-sx6w5-sx8w9 )</div>
+
+<br>
+
 <div style="text-align: center; color: black;">ESFJ-T</div>
-<div style="text-align: center; color: black;">: FSK , DW , Regretevator, kaiju paradise, ..</div>
+
+<br>
+
+<div style="text-align: center; color: black;">FD: FSK , DW , Regretevator, kaiju paradise, ..</div>
+
+<br>
 
 ![image_alt](https://github.com/rubycoon/rubycoon/blob/23d6393d3d009d0abfd6e565c2703e505becd97b/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%815_20260811225743.png)
 ------------------------------------------------------------------------------------------------------------------------------------------
