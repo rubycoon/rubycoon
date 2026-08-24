@@ -63,6 +63,6 @@
 
 <div style="text-align: center; color: black;">CD ARCHIVE</div>
 
-![image_alt](https://github.com/rubycoon/rubycoon/blob/60b9151c7d3007414fa7f1d5993ef3390df49044/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%819_20260824205036.png)
+![image_alt](https://github.com/rubycoon/rubycoon/blob/d2a0ae42d2260ccdb72f86b79bcef4273d8fca25/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%819_20260824221417.png)
 
-![image_alt](https://github.com/rubycoon/rubycoon/blob/60b9151c7d3007414fa7f1d5993ef3390df49044/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8110_20260824205027.png)
+![image_alt](https://github.com/rubycoon/rubycoon/blob/d2a0ae42d2260ccdb72f86b79bcef4273d8fca25/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8110_20260824221941.png)
