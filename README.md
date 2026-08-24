@@ -52,3 +52,17 @@
     I’m only sharing that one small bit because her offenses are piled as high as a mountain—I just can't be bothered to tell the rest.
   </p>
 </details>
+
+<div style="text-align: center; color: yellow;">my arts</div>
+
+<br>
+
+<div style="text-align: center; color: black;">( ARG ROBLOX )</div>
+
+<br>
+
+<div style="text-align: center; color: black;">CD ARCHIVE</div>
+
+![image_alt](https://github.com/rubycoon/rubycoon/blob/60b9151c7d3007414fa7f1d5993ef3390df49044/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%819_20260824205036.png)
+
+![image_alt](https://github.com/rubycoon/rubycoon/blob/60b9151c7d3007414fa7f1d5993ef3390df49044/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8110_20260824205027.png)
