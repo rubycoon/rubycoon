@@ -40,7 +40,7 @@
   <summary>hater</summary>
 
   <p>
-   @BunLynaLoL <br>
+   @BunLynaLoL or @cupcake-bug <br>
   When I first got to know her, I thought it was a beautiful friendship.<br><br>
     On the surface, she appears cheerful and kind, but she has a dark side that took me by surprise.<br><br>
     She deceived me repeatedly over a long period. Looking back, I was no better than a cow being led around by the nose.<br><br>
