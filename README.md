@@ -72,3 +72,9 @@
 <p align="center">
   <img src="https://github.com/rubycoon/rubycoon/blob/f4093d4e555865124c85363713f5d8b0e48ca103/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8112_20260825095113.png" alt="image">
 </p>
+
+<p align="center">
+<div style="text-align: center; color: yellow;">dreamer folly</div>
+
+
+![image_alt](https://github.com/rubycoon/rubycoon/blob/ee4f7d98b14e29573d1e469c93232f2ce7e21042/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8118_20260827181135.png)
