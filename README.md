@@ -79,4 +79,8 @@
 
 ![image_alt](https://github.com/rubycoon/rubycoon/blob/ee4f7d98b14e29573d1e469c93232f2ce7e21042/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8118_20260827181135.png)
 
+<p align="center">
+  <img src="https://github.com/rubycoon/rubycoon/blob/7e88f7a9152556da4bde6429b21a996942e688d1/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8122_20260828111829.png" alt="image">
+</p>
+
 ![image_alt](https://github.com/rubycoon/rubycoon/blob/727471def31a0fb55ad194f597d0e63e2313cfdc/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%813_20260828110323.png)
