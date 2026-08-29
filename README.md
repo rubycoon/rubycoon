@@ -88,3 +88,7 @@
 ![image_alt](https://github.com/rubycoon/rubycoon/blob/a9d566ce054ab658a4fccf201faabc74ec9bcc21/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8124_20260828112718.png)
 
 <div style="text-align: center; color: black;">my ship</div>
+
+<br>
+
+![image_alt](https://github.com/rubycoon/rubycoon/blob/d13322b87129e31f754b3325a7258bcd67d9a29a/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8129_20260829123621.png)
