@@ -96,3 +96,6 @@
 <p align="center">
   <img src="https://github.com/rubycoon/rubycoon/blob/72aefee6fe5405120087d1e0854f34bfa93b9dd0/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8130_20260829143553.png" alt="image">
 </p>
+<p align="center">
+  <img src="https://github.com/rubycoon/rubycoon/blob/52640ceacdff62bb01e150dc77b1461616284e89/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8125_20260830092935.png" alt="image">
+</p>
