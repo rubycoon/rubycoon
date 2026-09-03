@@ -18,7 +18,7 @@
 
 <br>
 
-<div style="text-align: center; color: black;">(  sx4w5-sx6w5-sx8w9 )</div>
+<div style="text-align: center; color: black;">(  sx4w5-sx6w7-sx8w9 )</div>
 
 <br>
 
