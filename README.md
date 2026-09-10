@@ -52,13 +52,12 @@
     She said she liked me but then stabbed me in the back—no wonder her old group ostracized her so much.
     I don't want to interfere in her business, but I have to speak up because I am truly extremely annoyed by her disrespectful behavior toward me.<br><br>
     I was shocked.<br><br>
-    I’m only sharing that one small bit because her offenses are piled as high as a mountain—I just can't be bothered to tell the rest.
+    I’m only sharing that one small bit because her offenses are piled as high as a mountain—I just can't be bothered to tell the rest.<br><br>
+    I don't know why my close friend Shincyu unfriended me.
   </p>
 </details>
 
-<div style="text-align: center; color: yellow;">my arts</div>
 
-<br>
 
 <div style="text-align: center; color: 
 
