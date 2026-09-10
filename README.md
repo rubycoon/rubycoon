@@ -57,21 +57,7 @@
 
 <br>
 
-<div style="text-align: center; color: black;">( ARG ROBLOX )</div>
-
-<br>
-
-<div style="text-align: center; color: black;">CD ARCHIVE</div>
-
-![image_alt](https://github.com/rubycoon/rubycoon/blob/d2a0ae42d2260ccdb72f86b79bcef4273d8fca25/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%819_20260824221417.png)
-
-![image_alt](https://github.com/rubycoon/rubycoon/blob/d2a0ae42d2260ccdb72f86b79bcef4273d8fca25/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8110_20260824221941.png)
-
-![image_alt](https://github.com/rubycoon/rubycoon/blob/787837dcb5006b0f3e3734607d519852bf9dd28b/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8111_20260824223609.png)
-
-<p align="center">
-  <img src="https://github.com/rubycoon/rubycoon/blob/f4093d4e555865124c85363713f5d8b0e48ca103/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8112_20260825095113.png" alt="image">
-</p>
+<div style="text-align: center; color: 
 
 <p align="center">
 <div style="text-align: center; color: yellow;">dreamer folly</div>
@@ -87,15 +73,3 @@
 
 ![image_alt](https://github.com/rubycoon/rubycoon/blob/a9d566ce054ab658a4fccf201faabc74ec9bcc21/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8124_20260828112718.png)
 
-<div style="text-align: center; color: black;">my ship</div>
-
-<br>
-
-![image_alt](https://github.com/rubycoon/rubycoon/blob/d13322b87129e31f754b3325a7258bcd67d9a29a/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8129_20260829123621.png)
-
-<p align="center">
-  <img src="https://github.com/rubycoon/rubycoon/blob/72aefee6fe5405120087d1e0854f34bfa93b9dd0/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8130_20260829143553.png" alt="image">
-</p>
-<p align="center">
-  <img src="https://github.com/rubycoon/rubycoon/blob/52640ceacdff62bb01e150dc77b1461616284e89/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8125_20260830092935.png" alt="image">
-</p>
