@@ -39,6 +39,8 @@
 
 ![image alt](https://github.com/rubycoon/rubycoon/blob/02d7f8aef37bdd35a39c9492356e9f6864a2f043/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8111_20260910183851.png)
 
+
+<div align="center">
 <details>
   <summary>hater</summary>
 
