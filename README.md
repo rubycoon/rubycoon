@@ -61,7 +61,14 @@
     I don't want to interfere in her business, but I have to speak up because I am truly extremely annoyed by her disrespectful behavior toward me.<br><br>
     I was shocked.<br><br>
     I’m only sharing that one small bit because her offenses are piled as high as a mountain—I just can't be bothered to tell the rest.<br><br>
-    I don't know why my close friend Shincyu unfriended me.
+    I don't know why my close friend Shincyu unfriended me.<br><br>
+    I hate you, but I can't forget you.<br><br>
+    You liar!<br><br>
+    I hate you two, but...<br><br>
+    Why did Shincyu betray me?<br><br>
+    I remember we were really close, though?<br><br>
+    I hate you both; please forget about me.<br><br>
+    Forget me.
   </p>
 </details>
 
