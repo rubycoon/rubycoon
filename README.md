@@ -2,6 +2,8 @@
 
 <br>
 
+![image alt](https://github.com/rubycoon/rubycoon/blob/7b63c38857d8a31b1c6f5533078e6fec5ec76bba/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8145_20260915190928.png)
+
 <div align="center">
 <div style="text-align: center; color: black;">
   (´ω｀)</div>
@@ -87,5 +89,11 @@
 <p align="center">
   <img src="https://github.com/rubycoon/rubycoon/blob/727471def31a0fb55ad194f597d0e63e2313cfdc/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%813_20260828110323.png" alt="image">
 
-![image_alt](https://github.com/rubycoon/rubycoon/blob/a9d566ce054ab658a4fccf201faabc74ec9bcc21/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8124_20260828112718.png)
+<p align="center">
+  <img src="https://github.com/rubycoon/rubycoon/blob/7e88f7a9152556da4bde6429b21a996942e688d1/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8122_20260828111829.png" alt="image">
+</p>
 
+<div align="center">
+<div style="text-align: center; color: black;">i love folly awwww</div>
+
+![image alt](https://github.com/rubycoon/rubycoon/blob/ae5da8fd815efda5f34fb90aa2a3cd567e462393/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8145_20260915191043.png)
