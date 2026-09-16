@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/rubycoon/rubycoon/blob/5950cd65ca60fea4f54df41ae43257f8767a2574/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8144_20260916131151.png" width="90" height="90">
+<img src="https://github.com/rubycoon/rubycoon/blob/ac5363814174b94099f7401f706e17c2f0576d50/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8144_20260916131714.png" width="90" height="90">
 
 ![image alt](https://github.com/rubycoon/rubycoon/blob/7b63c38857d8a31b1c6f5533078e6fec5ec76bba/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8145_20260915190928.png)
 
@@ -99,4 +99,4 @@
 <div align="center">
 <div style="text-align: center; color: black;">i love folly awwww</div>
 
-![image alt](https://github.com/rubycoon/rubycoon/blob/ae5da8fd815efda5f34fb90aa2a3cd567e462393/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8145_20260915191043.png)
+
