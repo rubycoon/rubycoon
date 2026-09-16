@@ -49,7 +49,7 @@
 <br>
 
 
-![image alt](https://github.com/rubycoon/rubycoon/blob/8ffbf6e43c0b7444e3a0a936d0a58dee98aa3062/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8111_20260911130310.png)
+<img src="https://github.com/rubycoon/rubycoon/blob/8ffbf6e43c0b7444e3a0a936d0a58dee98aa3062/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8111_20260911130310.png" width="100" height="100">
 
 <div align="center">
 <details>
