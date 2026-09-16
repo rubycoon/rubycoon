@@ -2,6 +2,9 @@
 
 <br>
 
+<div align="center">
+<img src="https://github.com/rubycoon/rubycoon/blob/5950cd65ca60fea4f54df41ae43257f8767a2574/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8144_20260916131151.png" width="90" height="90">
+
 ![image alt](https://github.com/rubycoon/rubycoon/blob/7b63c38857d8a31b1c6f5533078e6fec5ec76bba/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8145_20260915190928.png)
 
 <div align="center">
