@@ -1,11 +1,14 @@
 <div style="text-align: center; color: black;">(0 . 0)</div>
 
-<br>
+<div align="center">
+<details>
+  <summary>things about me</summary>
 
+  <p>
 <div align="center">
 <img src="https://github.com/rubycoon/rubycoon/blob/ac5363814174b94099f7401f706e17c2f0576d50/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8144_20260916131714.png" width="90" height="90">
 
-![image alt](https://github.com/rubycoon/rubycoon/blob/7b63c38857d8a31b1c6f5533078e6fec5ec76bba/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8145_20260915190928.png)
+
 
 <div align="center">
 <div style="text-align: center; color: black;">
@@ -50,6 +53,12 @@
 
 
 <img src="https://github.com/rubycoon/rubycoon/blob/8ffbf6e43c0b7444e3a0a936d0a58dee98aa3062/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8111_20260911130310.png" width="100" height="100">
+</p>
+</details>
+
+![image alt](https://github.com/rubycoon/rubycoon/blob/6fc88c51657f88dbe827ee155eb9e91a906affc3/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8149_20260920125721.png)
+
+
 
 <div align="center">
 <details>
@@ -76,27 +85,5 @@
     Forget me.
   </p>
 </details>
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-<div align="center">
-<div style="text-align: center; color: yellow;">dreamer folly</div>
-
-
-![image_alt](https://github.com/rubycoon/rubycoon/blob/ee4f7d98b14e29573d1e469c93232f2ce7e21042/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8118_20260827181135.png)
-
-<p align="center">
-  <img src="https://github.com/rubycoon/rubycoon/blob/7e88f7a9152556da4bde6429b21a996942e688d1/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8122_20260828111829.png" alt="image">
-</p>
-
-<p align="center">
-  <img src="https://github.com/rubycoon/rubycoon/blob/727471def31a0fb55ad194f597d0e63e2313cfdc/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%813_20260828110323.png" alt="image">
-
-<p align="center">
-  <img src="https://github.com/rubycoon/rubycoon/blob/7e88f7a9152556da4bde6429b21a996942e688d1/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8122_20260828111829.png" alt="image">
-</p>
-
-<div align="center">
-<div style="text-align: center; color: black;">i love folly awwww</div>
 
 
