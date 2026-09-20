@@ -1,5 +1,7 @@
 <div style="text-align: center; color: black;">(0 . 0)</div>
 
+
+
 <div align="center">
 <details>
   <summary>things about me</summary>
@@ -56,7 +58,9 @@
 </p>
 </details>
 
-![image alt](https://github.com/rubycoon/rubycoon/blob/6fc88c51657f88dbe827ee155eb9e91a906affc3/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8149_20260920125721.png)
+<div align="center">
+<img src="https://github.com/rubycoon/rubycoon/blob/6fc88c51657f88dbe827ee155eb9e91a906affc3/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8149_20260920125721.png" width="500" height="750">
+
 
 
 
