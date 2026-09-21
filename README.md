@@ -69,7 +69,10 @@
   <summary>hater</summary>
 
   <p>
-   @BunLynaLoL or @cupcake-bug <br>
+   @cupcake-bug 
+    /.--.-. ... .-.. . . .--. .-.. ..- ...- .-. /
+
+<br>
   When I first got to know her, I thought it was a beautiful friendship.<br><br>
     On the surface, she appears cheerful and kind, but she has a dark side that took me by surprise.<br><br>
     She deceived me repeatedly over a long period. Looking back, I was no better than a cow being led around by the nose.<br><br>
@@ -80,6 +83,7 @@
     I was shocked.<br><br>
     I’m only sharing that one small bit because her offenses are piled as high as a mountain—I just can't be bothered to tell the rest.<br><br>
     I don't know why my close friend Shincyu unfriended me.<br><br>
+ Shin is only 11 years old.<br><br>
     I hate you, but I can't forget you.<br><br>
     You liar!<br><br>
     I hate you two, but...<br><br>
