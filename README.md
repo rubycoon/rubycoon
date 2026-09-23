@@ -1,64 +1,12 @@
 <div style="text-align: center; color: black;">(0 . 0)</div>
 
-<div align="center">
+div align="center">
 <details>
-  <summary>Gift for @SleepLuvr</summary>
+  <summary>for SleepLuvr</summary>
 
   <p>
+Alright, I think you’ve admitted your mistake, but you’ve apologized and made a fuss way too much. So, you and your wife shouldn't come down to my place anymore—it’s just an eyesore.
 
-Did I strike a nerve? I’m telling the truth, you know 🥺🥺 You even pathetically begged me to take you back 💖 <333 Before I dumped you, I actually loved you so much >v<🥴 I was just a little annoyed, but you totally lost your mind 🤣 And then you were messing around with my friend—did you think I was some clueless fool you could lead around by the nose? 🥺💓 You were incredibly controlling, forbidding this and that; I couldn't stand a pathetic person like you anymore. You even lied just to get people's pity 😁🤮
-Bored with the main course and craving something on the side? You only reacted like that because I hit a sore spot, didn't you? 😍
-
-<br>
-
-Wishing my old friend and @SleepLuvr all the best as they begin their life together.💖
-
-<br>
-gg f#cking ez to ragebait you. You're so sensitive.
-
-
-<br>
-
-interesting question<3 from @SleepLuvr
-
-<br>
-
-❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥"Ok, And don't drag her into this, ok? That's amazing, Even my friends don't like your attitude. Do you really think you haven't done anything wrong, huhh? The joke was so ridiculous that she was annoyed by it. So when someone else points it out, you get angry and walk away? omg~ Many of my friends don't even like you, haiz~ And don't try to cause trouble, make things worse, or turn it into a big problem, nobody will bother you then 🤡"🥵🤧🤯🫤😕😲
-
-<br>
-
--Listen here, you viper—I know all too well how skilled you are at badmouthing the people you loathe; I was nearly brainwashed by you myself. Your friends represent my past—a time when I was deceived and manipulated. And let me ask: who is she? The "third party"? I know she’s not at fault—she’s just another victim you brainwashed. That is precisely why I included her in the file as a prime example of someone who was deceived yet remained steadfastly on your side.🥺🥺🥺
-
-<br>
-
-answer the question!! for  @SleepLuvr😜👍
-
-<br>
-
-Top1❤️‍🔥❤️‍🔥❤️‍🔥 "Do you like me😍💥🤯🤫? Why do you keep bringing that up over and over again?🥶🙌
-I laughed out loud !!!!😳😳💥💥💥🥶"
-
-<br>
-
--Um, because this is the first time I've opened up to someone with mental health issues like you.
-
-<br>
-
-2 "Why not just forget about it and live a normal life instead of constantly making a fool of yourself or causing a bigger fuss? 🙌💥"
-
-<br>
-
--I really don't want to bring you up at all, but you keep pestering and bothering me.
-
-<br>
-
-3 "Are you feeling down? I'm not betraying my current friends; I'm still making them happy and helping them have better lives🥶🥺🙄"
-
-<br>
-
--It’s funny that your friends know nothing about your past; that’s why they behave the way they do.
-</p>
-</details>
 
 <div align="center">
 <details>
