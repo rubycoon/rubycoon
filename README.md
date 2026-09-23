@@ -1,12 +1,14 @@
 <div style="text-align: center; color: black;">(0 . 0)</div>
 
-div align="center">
+<div align="center">
 <details>
   <summary>for SleepLuvr</summary>
 
   <p>
 Alright, I think you’ve admitted your mistake, but you’ve apologized and made a fuss way too much. So, you and your wife shouldn't come down to my place anymore—it’s just an eyesore.
 
+</p>
+</details>
 
 <div align="center">
 <details>
