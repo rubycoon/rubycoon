@@ -8,6 +8,8 @@
 
 Did I strike a nerve? I’m telling the truth, you know 🥺🥺 You even pathetically begged me to take you back 💖 <333 Before I dumped you, I actually loved you so much >v<🥴 I was just a little annoyed, but you totally lost your mind 🤣 And then you were messing around with my friend—did you think I was some clueless fool you could lead around by the nose? 🥺💓 You were incredibly controlling, forbidding this and that; I couldn't stand a pathetic person like you anymore. You even lied just to get people's pity 😁🤮
 Bored with the main course and craving something on the side? You only reacted like that because I hit a sore spot, didn't you? 😍
+</p>
+</details>
 
 <div align="center">
 <details>
