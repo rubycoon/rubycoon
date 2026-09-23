@@ -39,6 +39,11 @@ I laughed out loud !!!!😳😳💥💥💥🥶"
 
 <br>
 
+3 "Are you feeling down? I'm not betraying my current friends; I'm still making them happy and helping them have better lives🥶🥺🙄"
+
+<br>
+
+-It’s funny that your friends know nothing about your past; that’s why they behave the way they do.
 </p>
 </details>
 
