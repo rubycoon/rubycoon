@@ -15,6 +15,20 @@ Wishing my old friend and @SleepLuvr all the best as they begin their life toget
 
 <br>
 gg f#cking ez to ragebait you. You're so sensitive.
+
+<br>
+
+answer the question!! for  @SleepLuvr😜👍
+
+<br>
+
+ "Do you like me😍💥🤯🤫? Why do you keep bringing that up over and over again?🥶🙌
+I laughed out loud !!!!😳😳💥💥💥🥶"
+
+<br>
+
+-Um, because this is the first time I've opened up to someone with mental health issues like you.
+
 </p>
 </details>
 
