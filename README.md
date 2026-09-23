@@ -18,6 +18,18 @@ gg f#cking ez to ragebait you. You're so sensitive.
 
 <br>
 
+interesting question<3
+
+<br>
+
+❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥"Ok, And don't drag her into this, ok? That's amazing, Even my friends don't like your attitude. Do you really think you haven't done anything wrong, huhh? The joke was so ridiculous that she was annoyed by it. So when someone else points it out, you get angry and walk away? omg~ Many of my friends don't even like you, haiz~ And don't try to cause trouble, make things worse, or turn it into a big problem, nobody will bother you then 🤡"🥵🤧🤯🫤😕😲
+
+<br>
+
+-Listen here, you viper—I know all too well how skilled you are at badmouthing the people you loathe; I was nearly brainwashed by you myself. Your friends represent my past—a time when I was deceived and manipulated. And let me ask: who is she? The "third party"? I know she’s not at fault—she’s just another victim you brainwashed. That is precisely why I included her in the file as a prime example of someone who was deceived yet remained steadfastly on your side.🥺🥺🥺
+
+<br>
+
 answer the question!! for  @SleepLuvr😜👍
 
 <br>
