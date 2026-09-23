@@ -22,12 +22,22 @@ answer the question!! for  @SleepLuvr😜👍
 
 <br>
 
-1 "Do you like me😍💥🤯🤫? Why do you keep bringing that up over and over again?🥶🙌
+Top1❤️‍🔥❤️‍🔥❤️‍🔥 "Do you like me😍💥🤯🤫? Why do you keep bringing that up over and over again?🥶🙌
 I laughed out loud !!!!😳😳💥💥💥🥶"
 
 <br>
 
 -Um, because this is the first time I've opened up to someone with mental health issues like you.
+
+<br>
+
+2 "Why not just forget about it and live a normal life instead of constantly making a fool of yourself or causing a bigger fuss? 🙌💥"
+
+<br>
+
+-I really don't want to bring you up at all, but you keep pestering and bothering me.
+
+<br>
 
 </p>
 </details>
