@@ -22,7 +22,7 @@ answer the question!! for  @SleepLuvr😜👍
 
 <br>
 
- "Do you like me😍💥🤯🤫? Why do you keep bringing that up over and over again?🥶🙌
+1 "Do you like me😍💥🤯🤫? Why do you keep bringing that up over and over again?🥶🙌
 I laughed out loud !!!!😳😳💥💥💥🥶"
 
 <br>
