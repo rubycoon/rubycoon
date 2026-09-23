@@ -66,7 +66,7 @@
 
 <div align="center">
 <details>
-  <summary>blacklist (update)</summary>
+  <summary>blacklist</summary>
 
   <p>
    @cupcake-bug is @SleepLuvr
