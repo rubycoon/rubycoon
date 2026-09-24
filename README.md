@@ -1,17 +1,5 @@
 <div style="text-align: center; color: black;">(0 . 0)</div>
 
-<div align="center">
-<details>
-  <summary>for SleepLuvr</summary>
-
-  <p>
-Alright, I think you’ve admitted your mistake, but you’ve apologized and made a fuss way too much. So, you and your wife shouldn't come down to my place anymore—it’s just an eyesore.
-
-<br>
-
-    Don't hide 24 hours or block me, because from now on, we are strangers.
-</p>
-</details>
 
 <div align="center">
 <details>
@@ -95,13 +83,7 @@ Alright, I think you’ve admitted your mistake, but you’ve apologized and mad
     I don't know why my close friend Shincyu unfriended me.<br><br>
  Shin is only 2k15.<br><br>
  I don't hate Shin at all; I just don't understand why he's friends with such a disgusting person.( @SleepLuvr )<br><br>
-    I hate you, but I can't forget you.<br><br>
-    You liar!<br><br>
-    I hate you two, but...<br><br>
-    Why did Shincyu betray me?<br><br>
-    I remember we were really close, though?<br><br>
-    I hate you both; please forget about me.<br><br>
-    Forget me.
+    
   </p>
 </details>
 
