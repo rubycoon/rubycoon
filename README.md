@@ -60,7 +60,7 @@
 <div align="center">
 <img src="https://github.com/rubycoon/rubycoon/blob/6fc88c51657f88dbe827ee155eb9e91a906affc3/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8149_20260920125721.png" width="500" height="750">
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6D16E&background=3C335000&center=true&vCenter=true&width=435&lines=%5B%E2%89%A7%E2%97%A1%E2%89%A6%5D)](https://git.io/typing-svg)
 
 
 <div align="center">
