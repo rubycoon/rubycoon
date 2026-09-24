@@ -7,6 +7,9 @@
   <p>
 Alright, I think you’ve admitted your mistake, but you’ve apologized and made a fuss way too much. So, you and your wife shouldn't come down to my place anymore—it’s just an eyesore.
 
+<br>
+
+    Don't hide 24 hours or block me, because from now on, we are strangers.
 </p>
 </details>
 
