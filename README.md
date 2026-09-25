@@ -57,6 +57,9 @@
 </p>
 </details>
 
+<a href="https://hits.sh/github.com/twottimey/"><img alt="Hits" src="https://hits.sh/github.com/twottimey.svg?style=plastic&label=FOLLY&extraCount=665&color=450a0a&labelColor=0f0909&logo=roblox"/></a>
+
+
 <div align="center">
 <img src="https://github.com/rubycoon/rubycoon/blob/6fc88c51657f88dbe827ee155eb9e91a906affc3/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8149_20260920125721.png" width="500" height="750">
 
