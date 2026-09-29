@@ -1,5 +1,4 @@
-<div style="text-align: center; color: black;">(0 . 0)</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Playwrite+Canada+Guides&pause=1000&color=D2F776&width=435&lines=hello+!!!+%3A3" alt="Typing SVG" /></a>
 
 <div align="center">
 <details>
