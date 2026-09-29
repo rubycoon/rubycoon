@@ -66,14 +66,11 @@
 
 ![image alt](https://github.com/rubycoon/rubycoon/blob/84e2f9f8b62cacde407bfb62c10164b3214c289d/Cutscene_beast_episode01_021.webp)
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6D16E&background=3C335000&center=true&vCenter=true&width=435&lines=%5B%E2%89%A7%E2%97%A1%E2%89%A6%5D)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rubycoon/rubycoon/b1d895e83c6a4220c744351177345f0ea844f890/Cookie0509-joy.gif" width="100" alt="Cookie0509 Joy">
 </p>
-
-<img src="https://github.com/rubycoon/rubycoon/blob/c67addba488ab8abde09b60b4b904c3642ef41de/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%814_20260928213435.png" width="100" height="100">
 
 
 -----------------------------------------------------------------------------------------------------
