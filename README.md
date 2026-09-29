@@ -5,9 +5,9 @@
 <details>
   <summary>things about me</summary>
 
-  <p>
-<div align="center">
-<img src="https://github.com/rubycoon/rubycoon/blob/ac5363814174b94099f7401f706e17c2f0576d50/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8144_20260916131714.png" width="90" height="90">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rubycoon/rubycoon/84e2f9f8b62cacde407bfb62c10164b3214c289d/White_lily_title_animation.gif" width="200" alt="White Lily">
+</p>
 
 
 
@@ -59,9 +59,11 @@
 
 <a href="https://hits.sh/github.com/twottimey/"><img alt="Hits" src="https://hits.sh/github.com/twottimey.svg?style=plastic&label=FOLLY&extraCount=665&color=450a0a&labelColor=0f0909&logo=roblox"/></a>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rubycoon/rubycoon/main/Whitelilytitleanimation.webp" width="500" alt="Whitelily Animation">
+</p>
 
-<div align="center">
-<img src="https://github.com/rubycoon/rubycoon/blob/6fc88c51657f88dbe827ee155eb9e91a906affc3/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8149_20260920125721.png" width="500" height="750">
+![image alt](https://github.com/rubycoon/rubycoon/blob/84e2f9f8b62cacde407bfb62c10164b3214c289d/Cutscene_beast_episode01_021.webp)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6D16E&background=3C335000&center=true&vCenter=true&width=435&lines=%5B%E2%89%A7%E2%97%A1%E2%89%A6%5D)](https://git.io/typing-svg)
 
