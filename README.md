@@ -70,6 +70,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6D16E&background=3C335000&center=true&vCenter=true&width=435&lines=%5B%E2%89%A7%E2%97%A1%E2%89%A6%5D)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rubycoon/rubycoon/b1d895e83c6a4220c744351177345f0ea844f890/Cookie0509-joy.gif" width="100" alt="Cookie0509 Joy">
+</p>
+
 
 <div align="center">
 <details>
