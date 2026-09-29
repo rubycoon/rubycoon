@@ -58,7 +58,7 @@ WIPPPP
 </p>
 </details>
 
-[![Hits](https://hits.sh/github.com/twottimey.svg?style=plastic&label=White%20lily%20cookie&extraCount=332&color=475d12&labelColor=c1cfc0&logo=Tiktok)](https://hits.sh/github.com/twottimey/)
+[![Hits](https://hits.sh/github.com/twottimey.svg?style=plastic&label=White%20lily%20cookie&extraCount=332&color=475d12&labelColor=c1cfc0&)](https://hits.sh/github.com/twottimey/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rubycoon/rubycoon/main/Whitelilytitleanimation.webp" width="500" alt="Whitelily Animation">
