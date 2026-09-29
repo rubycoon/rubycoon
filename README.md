@@ -57,13 +57,16 @@
 </p>
 </details>
 
-<a href="https://hits.sh/github.com/twottimey/"><img alt="Hits" src="https://hits.sh/github.com/twottimey.svg?style=plastic&label=FOLLY&extraCount=665&color=450a0a&labelColor=0f0909&logo=roblox"/></a>
+[![Hits](https://hits.sh/github.com/twottimey.svg?style=plastic&label=White%20lily%20cookie&extraCount=332&color=475d12&labelColor=c1cfc0&logo=Tiktok)](https://hits.sh/github.com/twottimey/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rubycoon/rubycoon/main/Whitelilytitleanimation.webp" width="500" alt="Whitelily Animation">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5C780C&background=FF8E8E00&center=true&vCenter=true&width=435&lines=WHITE+LILYYYY)](https://git.io/typing-svg)
+
 ![image alt](https://github.com/rubycoon/rubycoon/blob/84e2f9f8b62cacde407bfb62c10164b3214c289d/Cutscene_beast_episode01_021.webp)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6D16E&background=3C335000&center=true&vCenter=true&width=435&lines=%5B%E2%89%A7%E2%97%A1%E2%89%A6%5D)](https://git.io/typing-svg)
 
