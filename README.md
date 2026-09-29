@@ -74,6 +74,10 @@
   <img src="https://raw.githubusercontent.com/rubycoon/rubycoon/b1d895e83c6a4220c744351177345f0ea844f890/Cookie0509-joy.gif" width="100" alt="Cookie0509 Joy">
 </p>
 
+<img src="https://github.com/rubycoon/rubycoon/blob/c67addba488ab8abde09b60b4b904c3642ef41de/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%814_20260928213939.png" width="400" height="150">
+
+<img src="https://github.com/rubycoon/rubycoon/blob/c67addba488ab8abde09b60b4b904c3642ef41de/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%814_20260928213435.png" width="100" height="100">
+
 
 <div align="center">
 <details>
