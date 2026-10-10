@@ -56,6 +56,8 @@
 
 funfact im a litromatic (Aromantic Spectrum)
 
+<img src="https://github.com/rubycoon/rubycoon/blob/246d6fd1a94560c6ee550fb5a851c7b637a4830f/4b5a2d363343d4e90d8d9d0757445973.jpg" width="100" height="100">
+
 </p>
 </details>
 
