@@ -103,4 +103,13 @@ funfact im a litromatic (Aromantic Spectrum)
 
 ---------
 
-pooper : shincyu
+<div align="center">
+<details>
+  <summary>pooper : shincyu </summary>
+
+  <p>
+    
+  joke<br><br>
+    
+  </p>
+</details
