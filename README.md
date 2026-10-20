@@ -97,11 +97,8 @@ funfact im a litromatic (Aromantic Spectrum)
     I don't want to interfere in her business, but I have to speak up because I am truly extremely annoyed by her disrespectful behavior toward me.<br><br>
     I was shocked.<br><br>
     I’m only sharing that one small bit because her offenses are piled as high as a mountain—I just can't be bothered to tell the rest.<br><br>
-    I don't know why my close friend Shincyu unfriended me.<br><br>
- Shin is only 2k15.<br><br>
- I don't hate Shin at all; I just don't understand why he's friends with such a disgusting person.( @SleepLuvr )<br><br>
     
   </p>
 </details>
 
-
+pooper : shincyu
