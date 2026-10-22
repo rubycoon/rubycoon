@@ -1,69 +1,16 @@
 
 
 <div align="center">
-<details>
-  <summary>things about me</summary>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rubycoon/rubycoon/84e2f9f8b62cacde407bfb62c10164b3214c289d/White_lily_title_animation.gif" width="200" alt="White Lily">
-</p>
-
-
-
-<div align="center">
-<div style="text-align: center; color: black;">
-  (´ω｀)</div>
-
-<br>
-  
-<div align="center">
-<div style="text-align: center; color: black;">i love music</div>
-
-<br>
-
-<div align="center">
-<div style="text-align: center; color: black;">call me ruby</div>
-
-<br>
-
-<div align="center">
-<div style="text-align: center; color: black;">my sytle : Desaturated, Low/high saturation, Muted color palette</div>
-
-<br>
-
-<div align="center">
-<div style="text-align: center; color: black;">dnc pls</div>
-
-<br>
-
-<div align="center">
-<div style="text-align: center; color: black;">(  sx4w5/sp9w8-sp6w7-so8w9 )</div>
-
-<br>
-
-<div align="center">
-<div style="text-align: center; color: black;">ESFJ-T</div>
-
-<br>
-
-<div align="center">
-<div style="text-align: center; color: black;">FD: FSK , DW , Regretevator, kaiju paradise, ..</div>
-
-<br>
-
-
-<img src="https://github.com/rubycoon/rubycoon/blob/8ffbf6e43c0b7444e3a0a936d0a58dee98aa3062/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8111_20260911130310.png" width="100" height="100">
-
-funfact im a litromatic (Aromantic Spectrum)
-
-<img src="https://github.com/rubycoon/rubycoon/blob/246d6fd1a94560c6ee550fb5a851c7b637a4830f/4b5a2d363343d4e90d8d9d0757445973.jpg" width="100" height="100">
-
-</p>
-</details>
 
 [![Hits](https://hits.sh/github.com/twottimey.svg?style=for-the-badge&label=pursuer&color=00ffb6&labelColor=000000&logo=Roblox)](https://hits.sh/github.com/twottimey/)
 
+
+<div align="center">
+
 ![Pursuer Intro](https://github.com/rubycoon/rubycoon/blob/670f75fbb7f3c490d6f6ac5d1ef2b3872bf41b6c/PursuerIntroV5.webp?raw=true)
+
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=CANADA+WRITE&size=10&pause=1000&color=008F66&background=000000&multiline=true&width=450&lines=I'll+eat+you;%F0%9F%91%80)](https://git.io/typing-svg)
 
