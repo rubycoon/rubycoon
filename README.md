@@ -65,12 +65,7 @@ funfact im a litromatic (Aromantic Spectrum)
 
 ![Pursuer Intro](https://github.com/rubycoon/rubycoon/blob/670f75fbb7f3c490d6f6ac5d1ef2b3872bf41b6c/PursuerIntroV5.webp?raw=true)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5C780C&background=FF8E8E00&center=true&vCenter=true&width=435&lines=WHITE+LILYYYY)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6D16E&background=3C335000&center=true&vCenter=true&width=435&lines=%5B%E2%89%A7%E2%97%A1%E2%89%A6%5D)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=CANADA+WRITE&size=10&pause=1000&color=008F66&background=000000&multiline=true&width=450&lines=I'll+eat+you;%F0%9F%91%80)](https://git.io/typing-svg)
 
 -----------------------------------------------------------------------------------------------------
 
