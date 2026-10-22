@@ -61,7 +61,7 @@ funfact im a litromatic (Aromantic Spectrum)
 </p>
 </details>
 
-[![Hits](https://hits.sh/github.com/twottimey.svg?style=plastic&label=White%20lily%20cookie&extraCount=332&color=475d12&labelColor=c1cfc0&)](https://hits.sh/github.com/twottimey/)
+[![Hits](https://hits.sh/github.com/twottimey.svg?style=for-the-badge&label=pursuer&color=00ffb6&labelColor=000000&logo=Roblox)](https://hits.sh/github.com/twottimey/)
 
 ![Pursuer Intro](https://github.com/rubycoon/rubycoon/blob/670f75fbb7f3c490d6f6ac5d1ef2b3872bf41b6c/PursuerIntroV5.webp?raw=true)
 
