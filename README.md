@@ -46,6 +46,12 @@
   <p>
     
   joke<br><br>
+
+
+<div align="center">
+  
+![Pursuer Old Idle](https://github.com/rubycoon/rubycoon/blob/19b5ce7e3fdfd8e680fe878ed7eca4a98cdaca8b/Pursuer_old_idle_in_game.webp?raw=true)
+<br><br>
     
   </p>
 </details
