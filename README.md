@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Playwrite+Canada+Guides&pause=1000&color=D2F776&width=435&lines=hello+!!!+%3A3" alt="Typing SVG" /></a>
+
 
 <div align="center">
 <details>
@@ -63,19 +63,13 @@ funfact im a litromatic (Aromantic Spectrum)
 
 [![Hits](https://hits.sh/github.com/twottimey.svg?style=plastic&label=White%20lily%20cookie&extraCount=332&color=475d12&labelColor=c1cfc0&)](https://hits.sh/github.com/twottimey/)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rubycoon/rubycoon/main/Whitelilytitleanimation.webp" width="500" alt="Whitelily Animation">
-</p>
+![Pursuer Intro](https://github.com/rubycoon/rubycoon/blob/670f75fbb7f3c490d6f6ac5d1ef2b3872bf41b6c/PursuerIntroV5.webp?raw=true)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5C780C&background=FF8E8E00&center=true&vCenter=true&width=435&lines=WHITE+LILYYYY)](https://git.io/typing-svg)
 
-![image alt](https://github.com/rubycoon/rubycoon/blob/84e2f9f8b62cacde407bfb62c10164b3214c289d/Cutscene_beast_episode01_021.webp)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6D16E&background=3C335000&center=true&vCenter=true&width=435&lines=%5B%E2%89%A7%E2%97%A1%E2%89%A6%5D)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rubycoon/rubycoon/b1d895e83c6a4220c744351177345f0ea844f890/Cookie0509-joy.gif" width="100" alt="Cookie0509 Joy">
-</p>
 
 
 -----------------------------------------------------------------------------------------------------
